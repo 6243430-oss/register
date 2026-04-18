@@ -1,0 +1,12 @@
+@@ -0,0 +1,11 @@
+{
+    "description": "NeuroForge AI Agency - creative AI content generation",
+    "repo": "https://github.com/6243430-oss/neuroforge-website", 
+    "owner": {
+        "username": "6243430-oss",
+        "email": "6243430@gmail.com"
+    },
+    "record": {
+        "CNAME": "6243430-oss.github.io"
+    }
+}
